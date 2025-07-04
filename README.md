@@ -3,7 +3,7 @@
 This repository contains the source code for the **Minimum Viable Product (MVP)** of the official website for **Nakhane Supply-Chain & Logistics**, a South African non-profit organization focused on improving efficiency, equity, and innovation within the logistics and supply chain sector.
 
 ## 🚀 Live Website
-🔗 [View the Live Site Here]([https://your-live-site-url.com](https://nakhane-logistics.web.app/index.html ))  
+🔗 [View the Live Site Here](https://your-live-site-url.com](https://nakhane-logistics.web.app/index.html )
 
 ---
 
