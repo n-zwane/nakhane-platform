@@ -33,7 +33,8 @@ As **Web Development Supervisor**, I was responsible for:
 
 - HTML5  
 - CSS3 / Tailwind CSS  
-- JavaScript  
+- JavaScript
+- Formspree (for contact and application form submission)
 - Git & GitHub  
 - Deployment via Firebase
 
