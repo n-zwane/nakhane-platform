@@ -57,11 +57,3 @@ For permissions or inquiries, contact: [nicoroyzwane@gmail.com](mailto:nicoroyzw
 Special thanks to **Lukhona Mpopoma** (Founder & Acting CEO) and my teammate **@Thandululo Nengovhela** for their collaboration and support during the development process.
 
 ---
-
-## Connect With Me
-
-- LinkedIn: [linkedin.com/in/nicoroy-zwane](www.linkedin.com/in/nicoroy-zwane)
-- Email: [nicoroyzwane@gmail.com](mailto:nicoroyzwane@gmail.com)
-
----
-
